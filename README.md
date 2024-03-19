@@ -51,5 +51,5 @@ Upon running the program, you'll be presented with a menu where you can choose t
 
 ## Author
 
-This program was developed by [Your Name]. Feel free to contact me with any questions or suggestions.
+This program was developed by Kyle Kheswa. Feel free to contact me with any questions or suggestions.
 
